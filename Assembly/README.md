@@ -19,7 +19,7 @@ This will ensure proper alignment, tension, and motion throughout the final asse
    Mount all servos to the palm, route the wires, and connect nylon strings to each finger and thumb.  
    This connects the mechanical assembly to the actuation system.
 
-4. **[Power Setup](./PowerSetup.md)**  
+4. **[Power Setup](./powerSetup.md)**  
    Wire your power source, ensuring safe 5V power distribution for all servos and the control board.
 
 5. **[Arduino Cover + Floor Assembly](./CoverAndFloor.md)**  
