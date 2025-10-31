@@ -9,10 +9,10 @@ This will ensure proper alignment, tension, and motion throughout the final asse
 
 ## 🔧 Recommended Assembly Order
 
-1. **[Finger Assembly](./FingerAssembly.md)**  
+1. **[Finger Assembly](./fingerAssembly.md)**  
    Begin by assembling all four fingers, installing the pulleys, tensioning the elastic bands, and threading the base holes to the palm.
 
-2. **[Thumb Assembly](./ThumbAssembly.md)**  
+2. **[Thumb Assembly](./thumbAssembly.md)**  
    Assemble the thumb and its anchor piece. Similar to the fingers but with minor differences in pulley locations and tensioning setup.
 
 3. **[Servo Mounting & Actuation String](./ServoMounting.md)**  
@@ -22,7 +22,7 @@ This will ensure proper alignment, tension, and motion throughout the final asse
 4. **[Power Setup](./powerSetup.md)**  
    Wire your power source, ensuring safe 5V power distribution for all servos and the control board.
 
-5. **[Arduino Cover + Floor Assembly](./CoverAndFloor.md)**  
+5. **[Arduino Cover + Floor Assembly](./coverAndFloor.md)**  
    Final structural step — install the cover plates, secure the Arduino, and tidy up your wiring to complete the build.
 
 ---
