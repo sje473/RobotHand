@@ -28,12 +28,11 @@ I hope you enjoy checking it out as much as I enjoyed making it!
 |------|------------|--------------|----------------:|----:|------------:|--------|------|
 | 1 | 5 V > 5 A Power Source | YOOFONE 5 V 5 A 25 W AC/DC Adapter | $23.69 | 1 | $23.69 | Used 5 V rail from PSU; ensure enough current — each servo ≈ 1 A | [Amazon](https://www.amazon.ca/Adapter-100-240V-Converter-5-5x2-5mm-Security/dp/B0BZL1G6DS/) |
 | 2 | 18 AWG Gauge Wire | Electrical Wire 18 AWG Silicone Wire 20 ft | $7.68 | 1 | $7.68 | For power line | [Amazon](https://www.amazon.ca/Electrical-Gauge-Silicone-Cable-Black/dp/B0746HMTPP) |
-| 3 | Breadboard Jumper Cables | EDGELEC 120 pcs Jumper Wires (10 cm–20 cm) | $9.99 | 1 | $9.99 | For data signals from Arduino | [Amazon](https://www.amazon.ca/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY) |
-| 4 | Soldering Iron | TXINLEI Electronics Soldering Iron Kit 60 W 110 V | $13.99 | 1 | $13.99 |  | [Amazon](https://www.amazon.ca/TXINLEI-Electronics-Soldering-Adjustable-Temperature/dp/B08K8VFTF9) |
-| 5 | Solder | TOWOT 63-37 High Purity Tin Lead Rosin Core | $12.99 | 1 | $12.99 |  | [Amazon](https://www.amazon.ca/TOWOT-Purity-Electrical-Soldering-Content/dp/B09KM2LW4G) |
-| 6 | Assorted Kit of Nuts and Bolts | M2-M5 Cross Pan Head Screws Set | $13.99 | 1 | $13.99 |  | [Amazon](https://www.amazon.ca/Washers-Stainless-Machine-Commercial-Industrial/dp/B09X1G1ZV2) |
+| 3 | Soldering Iron | TXINLEI Electronics Soldering Iron Kit 60 W 110 V | $13.99 | 1 | $13.99 |  | [Amazon](https://www.amazon.ca/TXINLEI-Electronics-Soldering-Adjustable-Temperature/dp/B08K8VFTF9) |
+| 4 | Solder | TOWOT 63-37 High Purity Tin Lead Rosin Core | $12.99 | 1 | $12.99 |  | [Amazon](https://www.amazon.ca/TOWOT-Purity-Electrical-Soldering-Content/dp/B09KM2LW4G) |
+| 5 | Assorted Kit of Nuts and Bolts | M2-M5 Cross Pan Head Screws Set | $13.99 | 1 | $13.99 |  | [Amazon](https://www.amazon.ca/Washers-Stainless-Machine-Commercial-Industrial/dp/B09X1G1ZV2) |
 
-**Total Cost:** ≈ $82.33 CAD
+**Total Cost:** ≈ $72.34 CAD
 
 ---
 
