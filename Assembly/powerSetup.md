@@ -2,7 +2,7 @@
 
 ### Overview
 This section covers how to properly wire and power the servos and control system for the Robot Hand.  
-You’ll be connecting your 5V power supply, distributing current through 18 AWG wiring, and soldering the servo power, ground, and signal leads to their respective connections on the ESP32 board.
+You’ll be connecting your 5 V power supply, distributing current through 18 AWG wiring, and soldering the servo power, ground, and signal leads to their respective connections on the ESP32 board.
 
 ---
 
@@ -38,8 +38,10 @@ You’ll be connecting your 5V power supply, distributing current through 18 AWG
 ### 3. Power Distribution
 1. Solder all **servo red wires** to the **18 AWG power line**.  
 2. Solder all **servo brown/black wires** to the **18 AWG ground line**.  
-3. Double-check polarity before applying power — reversing power and ground will damage servos.  
-4. Optionally, apply heat-shrink tubing over each joint for safety and durability.
+3. **Add one extra wire from the 18 AWG ground line** and solder its other end to a **GND pin on the Arduino/ESP32**.  
+   - This connects the Arduino ground to the servo ground, ensuring all components share a **common electrical reference**.  
+4. Double-check polarity before applying power — reversing power and ground will damage servos.  
+5. Optionally, apply heat-shrink tubing over each joint for safety and durability.
 
 ---
 
@@ -62,6 +64,7 @@ You’ll be connecting your 5V power supply, distributing current through 18 AWG
 ### 5. Verification
 - Before powering on, confirm:
   - 5 V and GND are consistent across all servos.  
+  - The **Arduino ground** is properly connected to the shared ground line.  
   - Signal wires are connected to the correct pins.  
   - No short circuits between power and ground.  
 - Power up the system and gently test each servo to ensure movement.
