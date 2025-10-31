@@ -1,10 +1,18 @@
 # Robot Hand 🦾
 
+![Robot Hand Assembled](./images/your_image.jpg)
+
 This is my **Robot Hand project**, which I’ve been working on for a while.  
 It’s been an awesome experience building and designing each part — from modeling the components to getting everything to move just right.
 
 I had a ton of fun working on this project and learned a lot about mechanical design, electronics, and control systems along the way.  
 I hope you enjoy checking it out as much as I enjoyed making it!
+
+---
+
+## 🎥 Demo Video
+
+[![Watch the demo video](https://img.youtube.com/vi/7yu-IW-gmXY/0.jpg)](https://www.youtube.com/watch?v=7yu-IW-gmXY)
 
 ---
 
