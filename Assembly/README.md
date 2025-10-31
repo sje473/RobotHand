@@ -15,7 +15,7 @@ This will ensure proper alignment, tension, and motion throughout the final asse
 2. **[Thumb Assembly](./thumbAssembly.md)**  
    Assemble the thumb and its anchor piece. Similar to the fingers but with minor differences in pulley locations and tensioning setup.
 
-3. **[Servo Mounting & Actuation String](./ServoMounting.md)**  
+3. **[Servo Mounting & Actuation String](./servoMounting.md)**  
    Mount all servos to the palm, route the wires, and connect nylon strings to each finger and thumb.  
    This connects the mechanical assembly to the actuation system.
 
